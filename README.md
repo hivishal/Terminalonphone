@@ -105,3 +105,4 @@ On some Android devices, access to /storage/emulated/0/Download may require addi
 
 Key-based authentication expects id_rsa to be located in the app documents directory (e.g., created manually or downloaded beforehand)
 
+try out the app_release.apk
